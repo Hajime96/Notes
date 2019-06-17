@@ -7,7 +7,7 @@
 
 ---
 ### Introduction
-
+一般的に、
 ---
 ### Method
 
