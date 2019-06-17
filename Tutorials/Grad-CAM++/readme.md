@@ -1,9 +1,9 @@
 # Grad-CAM++
 
 ### Indexing:
-  -[ Introduction](#Introduction)
-  -[ Method](#Method)
-  -[ References](#References)
+  - [Introduction](#Introduction)
+  - [Method](#Method)
+  - [References](#References)
 
 ---
 ### Introduction
