@@ -12,7 +12,7 @@
 - CAMやGrad-CAMは，CNNが，どこに注目をして判断したのかを可視化できるツールである．
 ---
 ### Method
-
+- Grad-CAM++の手法を見る前に，まず，Grad-CAMの手法を
 ---
 ### References
 -[Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks](https://arxiv.org/pdf/1710.11063.pdf)
